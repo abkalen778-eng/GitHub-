@@ -1,12 +1,12 @@
 {
-  "name": "MiniBrowse",
-  "short_name": "MiniBrowse",
-  "description": "A lightweight personal browser hub",
+  "name": "Quantum Search • MiniBrowse",
+  "short_name": "Quantum Search",
+  "description": "A lightweight personal metasearch experience inside MiniBrowse",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#0b0d12",
-  "theme_color": "#111318",
+  "background_color": "#07090e",
+  "theme_color": "#090b10",
   "icons": [
     {
       "src": "icon.svg",
