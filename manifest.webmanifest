@@ -1,7 +1,7 @@
 {
-  "name": "Quantum Search",
-  "short_name": "Quantum",
-  "description": "Quantum Search v2 — a lightweight multi-source search engine inside MiniBrowse",
+  "name": "Quantum Search AI",
+  "short_name": "Quantum AI",
+  "description": "Quantum Search + Quantum Assistant v3 — one box for source-grounded answers and ranked search results",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
