@@ -1,12 +1,12 @@
 {
-  "name": "Quantum Search • MiniBrowse",
-  "short_name": "Quantum Search",
-  "description": "A lightweight personal metasearch experience inside MiniBrowse",
+  "name": "Quantum Search",
+  "short_name": "Quantum",
+  "description": "Quantum Search v2 — a lightweight multi-source search engine inside MiniBrowse",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#07090e",
-  "theme_color": "#090b10",
+  "background_color": "#070a10",
+  "theme_color": "#080b12",
   "icons": [
     {
       "src": "icon.svg",
