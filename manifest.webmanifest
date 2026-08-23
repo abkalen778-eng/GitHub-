@@ -1,0 +1,18 @@
+{
+  "name": "MiniBrowse",
+  "short_name": "MiniBrowse",
+  "description": "A lightweight personal browser hub",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b0d12",
+  "theme_color": "#111318",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
