@@ -1,7 +1,7 @@
 {
   "name": "Quantum Search AI",
   "short_name": "Quantum AI",
-  "description": "Quantum Search AI v4 — search, assistant, ranked results, and a built-in calculator",
+  "description": "Quantum Search AI v5 — Quantum, Google, DuckDuckGo, built-in assistant, calculator, bookmarks and history",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
