@@ -1,7 +1,7 @@
 {
   "name": "Quantum Search AI",
   "short_name": "Quantum AI",
-  "description": "Quantum Search + Quantum Assistant v3 — one box for source-grounded answers and ranked search results",
+  "description": "Quantum Search AI v4 — search, assistant, ranked results, and a built-in calculator",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
